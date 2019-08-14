@@ -5,4 +5,4 @@
 # syntax similar to .gitignore
 
 sql-databases/
-*.txt
+*.text
