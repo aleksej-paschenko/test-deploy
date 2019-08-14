@@ -1,0 +1,8 @@
+#
+# shipa-ci sends a whole directory to a Shipa server instance
+# and ignores files that are specified here
+#
+# syntax similar to .gitignore
+
+sql-databases/
+*.txt
